@@ -1,2 +1,3 @@
-# Node-User-Authentication-API
- API Rest com NodeJS. Microsserviço de autenticação.
+# Microsserviço de autenticação com Nodejs
+Neste projeto criei um microsserviço de autenticação.
+ 
